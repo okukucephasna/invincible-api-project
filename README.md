@@ -1,7 +1,3 @@
-Absolutely 👍🏽 — here’s the **complete, continuous, and polished write-up** for your GitHub README, combining both sections into one smooth, professional flow:
-
----
-
 ## 🧩 Project Overview
 
 This is a **simple full-stack project** that leverages **Flask**, **Flask-RESTful**, **PostgreSQL**, and **React** to create an API-driven web application.
@@ -139,10 +135,6 @@ With the frontend Git history removed, you can now set up version control for th
    git branch -M main
    git push -u origin main
    ```
-
-Once done, your full project — including both backend and frontend — will appear neatly in one GitHub repository.
-This setup ensures your development workflow stays clean, organized, and easy to deploy later (e.g., on **PythonAnywhere**, **Render**, or **Vercel**).
-
 ---
 
 Would you like me to add a short **“Deployment on PythonAnywhere + React build integration”** section next? That would complete the workflow from local to live server.
